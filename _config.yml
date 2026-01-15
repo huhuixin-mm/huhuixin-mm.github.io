@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "China"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Hu Huixin's Portfolio" # The title of your site
+title                    : "Hu Huixin's Homepage" # The title of your site
 title_separator          : "-"
 name                     : &name "Hu Huixin" # Your name, used in the author section and the site title
 description              : &description "A student"   # Update this with a general description of your site, this is the default if not overridden by a page

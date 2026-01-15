@@ -9,21 +9,27 @@
 
 main:
   - title: "Publications"
+    title_cn: "发表论文"
     url: /publications/
 
   - title: "Talks"
+    title_cn: "演讲"
     url: /talks/    
 
   - title: "Teaching"
+    title_cn: "教学"
     url: /teaching/    
     
   - title: "Portfolio"
+    title_cn: "作品集"
     url: /portfolio/
         
   - title: "Blog Posts"
+    title_cn: "博客"
     url: /year-archive/
     
   - title: "CV"
+    title_cn: "简历"
     url: /cv/
     
   # - title: "CV"
