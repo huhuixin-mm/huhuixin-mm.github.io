@@ -23,7 +23,7 @@ repository               : "huhuixin-mm/huhuixin-mm.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/24002400_resized.jpg"
+  avatar           : "24002400_resized.jpg"
   name             : "胡惠鑫"
   pronouns         : "he/his" # example: "she/her"  
   bio              : "I'm huhuixin"
