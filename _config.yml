@@ -24,11 +24,15 @@ repository               : "huhuixin-mm/huhuixin-mm.github.io"
 author:
   # Biographic information
   avatar           : "24002400_resized.jpg"
-  name             : "胡惠鑫"
+  name             : "Hu Huixin"
+  name_cn          : "胡惠鑫"
   pronouns         : "he/his" # example: "she/her"  
-  bio              : "I'm huhuixin"
-  location         : "China"
+  bio              : "Student at Peking University."
+  bio_cn           : "北京大学学生。"
+  location         : "Beijing, China"
+  location_cn      : "中国 北京"
   employer         : "Peking University"
+  employer_cn      : "北京大学"
   uri              : "https://huhuixin-mm.github.io" # URL
   email            : "hhxai_i33@163.com" 
 

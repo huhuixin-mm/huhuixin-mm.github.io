@@ -41,3 +41,10 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Language Switcher Styles */
+.lang-cn { display: none; }
+.cn-mode .lang-en { display: none !important; }
+.cn-mode .lang-cn { display: inline; }
+.cn-mode div.lang-cn { display: block; }
+#lang-toggle { cursor: pointer; color: #494e52; border: 1px solid #ccc; padding: 5px 10px; border-radius: 4px; margin-bottom: 10px; display: inline-block; font-size: 0.8em; }
+#lang-toggle:hover { background-color: #f0f0f0; }
